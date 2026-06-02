@@ -70,6 +70,23 @@ python -m streamlit run app.py
 ![Cities](charts/city_matches.png)
 
 ---
+## 📈 Dashboard Preview
+
+### Team Wins Analysis
+
+![Team Wins](./charts/top_teams.png)
+
+### Player Performance Analysis
+
+![Players](./charts/top_players.png)
+
+### Toss Impact Analysis
+
+![Toss](./charts/toss_impact.png)
+
+### City-wise Match Analysis
+
+![Cities](./charts/city_matches.png)
 
 ## 🔍 Insights
 
