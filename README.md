@@ -55,38 +55,21 @@ python -m streamlit run app.py
 
 ### Team Wins Analysis
 
-![Team Wins](charts/top_teams.png)
+![Team Wins](analysis/charts/top_teams.png)
 
 ### Player Performance Analysis
 
-![Players](charts/top_players.png)
+![Players](analysis/charts/top_players.png)
 
 ### Toss Impact Analysis
 
-![Toss](charts/toss_impact.png)
+![Toss](analysis/charts/toss_impact.png)
 
 ### City-wise Match Analysis
 
-![Cities](charts/city_matches.png)
+![Cities](analysis/charts/city_matches.png)
 
 ---
-## 📈 Dashboard Preview
-
-### Team Wins Analysis
-
-![Team Wins](./charts/top_teams.png)
-
-### Player Performance Analysis
-
-![Players](./charts/top_players.png)
-
-### Toss Impact Analysis
-
-![Toss](./charts/toss_impact.png)
-
-### City-wise Match Analysis
-
-![Cities](./charts/city_matches.png)
 
 ## 🔍 Insights
 
